@@ -86,6 +86,7 @@ This section investigates honey production trends over time:
 
 ### 7. Analyzing Year 2000
 
+![Year 2000 Analysis](screenshots/1year_2000.png)
 ![Year 2000 Analysis](screenshots/year_2000.png)
 
 This section focuses specifically on honey production in the year 2000:
