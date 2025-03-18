@@ -89,9 +89,9 @@ This section investigates honey production trends over time:
 This section focuses specifically on honey production in the year 2000:
 - Comparison of California and North Dakota in 2000
 - Analysis confirming California had high colony numbers (440,000) in 2000
-  ![Year 2000 Analysis](screenshots/1year_2000.png)
+![Year 2000 Analysis](screenshots/1year_2000.png)
 - Comparison showing North Dakota had higher production (33,350,000 pounds) than California (30,800,000 pounds) despite having fewer colonies
-  ![Year 2000 Analysis](screenshots/year_2000.png)
+![Year 2000 Analysis](screenshots/year_2000.png)
 
 ### 8. Inferences
 
